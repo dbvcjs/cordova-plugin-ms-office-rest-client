@@ -3,6 +3,12 @@ Apache Cordova plugin for Office 365 OData APIs
 Exposes JavaScript API and native libraries to interact with the Office 365 OData APIs,
 manage authentication tokens, query and consume data.
 
+####Supported Platforms####
+
+- Android
+- iOS
+- Windows (Windows 8.0, Windows 8.1 and Windows Phone 8.1)
+
 ## Copyrights ##
 Copyright (c) Microsoft Open Technologies, Inc. All rights reserved.
 
